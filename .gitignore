@@ -1,0 +1,45 @@
+# Игнорировать папки сборки
+build/
+build-mingw/
+build-mingw*/
+build*/
+mingw-build/
+Debug/
+Release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.sln
+*.vcxproj*
+
+# Внешние зависимости
+_deps/
+
+# Бинарники и временные файлы
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.a
+*.lib
+*.dll
+*.pch
+*.idb
+*.rsp
+*.d
+*.o
+*.so
+*.out
+*.run
+*.tmp
+*.user
+*.ipch
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
